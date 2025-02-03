@@ -1,0 +1,37 @@
+main{
+    display : flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    header{
+        text-align: center;
+        width: 100%;
+        border: solid 1px black;
+    }
+}
+
+section{
+    display: flex;
+    border: 1px solid black;
+    height: 20vh;
+    width:100%;
+
+    .round{
+        display: flex;
+        border-right: 1px solid black;
+        width: 10%;
+
+        .points{
+                height: 50%;
+                width: 50%;
+
+
+            }
+    }
+
+         #round1 {
+                height: 50%;
+                width: 50%;
+                border-right: 1px solid black;
+            }
+}
