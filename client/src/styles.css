@@ -32,6 +32,9 @@ section {
 }
 
 .points {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     height: 100%;
     width: 50%;
     border-right: 1px solid black;
@@ -44,6 +47,9 @@ section {
 }
 
 .round-score {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     width: 10%;
     height: 100%;
     border-right: 1px solid black;
