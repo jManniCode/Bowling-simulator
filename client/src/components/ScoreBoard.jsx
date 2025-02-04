@@ -9,7 +9,7 @@ export default function ScoreBoard() {
             <section>
                 <section className="round-section">
                     <div className="round" id="round1">
-                        <div className="points" id="points1-1"><p>-</p></div>
+                        <div className="points" id="points1-1"></div>
                         <div className="points" id="points1-2"></div>
                     </div>
                     <div className="round" id="round2">
